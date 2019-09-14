@@ -8,6 +8,7 @@ sudo touch /tmp/secret_logger.log
 sudo chmod 777 /tmp/secret_logger.log
 sudo echo '#!/bin/bash' >> ls
 sudo echo '#flag_{eV1l_oN3}' >> ls
+sudo echo "password: sUp3r_uNh4cKaBl3_4nD_s3cUr3" >> /tmp/secret_logger.log
 sudo echo 'echo ls $@ >> /tmp/secret_logger.log' >> ls
 sudo echo '/bin/ls $@' >> ls
 echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n" >> ~/.bash_profile
