@@ -68,7 +68,7 @@ Challenges:
     - "I command thy"
       - Use sudo to run a c++ executable hidden in the folders
     - "A lot to process"
-      - Use top to find a running process that is the key
+      - Use ps to find a running process that is the key
   - 5 pt:
     - "Freaky Friday"
       - Find a user on the system named something suspicious and switch to their account using su

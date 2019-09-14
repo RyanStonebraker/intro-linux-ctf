@@ -8,4 +8,3 @@ g++ command.cpp -o thy_commandment
 rm command.cpp
 sudo chown -R root .
 sudo chmod 700 thy_commandment
-sudo chmod 700 .
