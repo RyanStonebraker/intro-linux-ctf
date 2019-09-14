@@ -80,6 +80,5 @@ Challenges:
 
   - 10 pt:
     - "King of the Box"
-      - "Did you notice how all of the flags have weird numbers at the end of them? Maybe they're trying to communicate with us... In completely unrelated news, the following credentials were found. I wonder what they're for. user: csc_ctf password: uNh4cKaBl3"
-      - Can only do this challenge once all of the other challenges have been complete. The IP address is hidden at the end of all of the flags (ex. flag_{flag__1}, flag_{flag__92.}, ...)
+      - user: csc_ctf password: sUp3r_uNh4cKaBl3_4nD_s3cUr3
       - The key is hidden on this box and must be ssh'd to
